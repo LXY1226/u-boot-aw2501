@@ -27,5 +27,5 @@
 	url = https://github.com/radxa/awbs.git
 [submodule "device-a733"]
 	path = device-a733
-	url = https://github.com/radxa/allwinner-device.git
+	url = ../allwinner-device
 	branch = device-a733-v1.4.6
